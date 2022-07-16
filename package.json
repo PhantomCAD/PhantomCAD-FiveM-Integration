@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.21.2",
+    "figlet": "^1.5.2",
+    "form-data": "^4.0.0",
+    "signale": "^1.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "javascript-cad",
+  "version": "1.0.0",
+  "main": "client.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
