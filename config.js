@@ -8,7 +8,7 @@ const config = {
       ServerID: "Fill-in-your-ID",
       // The State The Server.
       state: "Los Santos",
-      // The 911/999/993 Number.
+      // The 911/999 Number.
       callNum: "911",
     },
   
