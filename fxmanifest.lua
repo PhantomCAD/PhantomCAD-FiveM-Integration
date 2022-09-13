@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game "gta5"
 version "1.0.9"
-name "Phantom-CAD-Script"
+name "javascript-cad"
 
 ui_page 'html/index.html'
 
